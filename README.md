@@ -1,3 +1,6 @@
 # About me
 
-Hi, I'm Caleb. I'm a senior at UMass Amherst who is looking to pursue a Master's degree in Data Science.
+Hi, I'm Caleb. 
+
+MSDS @ UC San Diego
+UMass '25
